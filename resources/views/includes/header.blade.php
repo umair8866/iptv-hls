@@ -5,8 +5,8 @@
     <!-- Required meta tags-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Iptv for Hls Streams">
-    <meta name="keywords" content="IPTV">
+    <meta name="description" content="<span>Get <em>PSL</em> 2021 <em>cricket</em> Match, <em>live</em> scores, schedule, results, fixtures, highlights, photos, videos and all the <em>details</em>. Complete <em>details</em> of <em>PSL</em> 2020, with fixtures and<wbr>...">
+    <meta name="keywords" content="PSL, psl, psl live, PSL LIVE, psl match, Pakistan super league, lahore qalanders match, karachi psl match, quetta psl match, peshawar psl match, islamabad psl match, ptvsports, psl, live, cricket psl">
 
     <!-- Title Page-->
     <link rel="shortcut icon" type="image/x-icon" href="{{asset('images/tv.jpg')}}" />
