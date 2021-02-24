@@ -328,6 +328,19 @@ overflow: auto;
 width: 400px;
 margin-left: 40px;
 }
+@media(max-width:2300px){
+    #video{
+        width: 1200px;
+        margin-right: 60px;
+    }
+    .div-vh{
+    float: left;
+    height: 800px;
+    overflow: auto;
+    width: 400px;
+    margin-left: 40px;
+    }
+    }
 @media(max-width:1800px){
 #video{
     width: 945px;
@@ -335,7 +348,7 @@ margin-left: 40px;
 }
 .div-vh{
 float: left;
-height: 365px;
+height: 500px;
 overflow: auto;
 width: 400px;
 margin-left: 40px;
